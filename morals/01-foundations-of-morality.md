@@ -1,15 +1,18 @@
 ---
-cssclasses:
-  - miravale
+id: "1-2024-08-27"
+aliases: []
 tags:
   - teleology
   - morality
   - human-nature
+cssclasses:
+  - miravale
 ---
-# 2024-08-27
-ref: C.S. Lewis, from *Miracles*
 
-## Teleology and Morality
+# Teleology and Morality
+2024-08-27
+
+ref: C.S. Lewis, from *Miracles*
 
 #### I. Morality, purpose and a designer
 1. Unless something has been given a purpose by someone, there is nothing

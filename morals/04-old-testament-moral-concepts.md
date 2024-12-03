@@ -1,13 +1,16 @@
 ---
+id: "2-2024-08-30"
+aliases: []
+tags: []
 cssclasses:
   - miravale
 ---
-# 2024-08-30
+
+# Old Testament Moral Concepts
+2024-08-30
 
 > How does your average westerner think of the old testament?
 > Arguably the most unpleasant character in all of fiction -- Dawkins
-
-## Old Testament Familial Structure and Morality
 
 #### I. God's establishment of a family structure
 God provides these ways by which he brings people into his family.
@@ -117,19 +120,6 @@ God provides these ways by which he brings people into his family.
 #### Takeaway: This is the Old Testament God-- who gives you Laws so that you don't end up hating your own life.
 
 Next: [[School/classes/24-25/f24/morals/2024-09-03|2024-09-03]]
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

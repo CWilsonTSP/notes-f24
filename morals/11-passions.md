@@ -1,16 +1,17 @@
 ---
-id: morals/2024-10-18
-aliases: []
-tags: []
+id: morals/passions
+aliases: 
+tags:
+  - classes/morals
+  - 2024-10-18
 cssclasses:
   - miravale
 ---
 
-# 2024-10-18
 
-## The Passions
-> Passions/Emotions/Feelings/Desires/Urges/Impulses are used here basically
-> interchangeably, but "passions" is the way Aquinas talks about these
+# The Passions
+2024-10-18
+> Passions/Emotions/Feelings/Desires/Urges/Impulses are used here basically interchangeably, but "passions" is the way Aquinas talks about these
 
 #### I. What NOT to do with your feelings
 1. Eliminate/minimize -- Stoicism 
@@ -76,8 +77,26 @@ cssclasses:
     2. Through the imagination, presenting appropriate images which cultivate
        the right passions at the right time
        > If the main goal you visualize is a creature, we call that an idol
-       1. "commanding" the passions -- 
+       1. "commanding" the passions -- using ones imagination to focus on the pleasing aspects of what is good, and the displeasing aspects of what is evil
 
+Our sense appetites:
+1. Exist to draw us towards moral good and away from moral evil
+2. Because of concupiscence, the Passions' tendency to be disordered, they don't
+   do that reliably 
+3. Have to be harnessed and redirected by
+    - Checking -- refusing to give in to misdirected impulses
+    - Commanding -- using imagination to cultivate the right passions
+    > These describe avoiding the near occasion of sin
+    > "best book" on non-material addition: Irresistible, Adam Altar
+    > - Addiction is envirtonmental; changing the environment changes the
+    > addiction
+    > - "Pluck out your eye and cut off your hand" -- cutting things out of your
+    > life that are near occasions of sin are going to feel like an amputation
+    > 
+    > St. Phillip Neri -- only cowards win the war; so, running away from the
+    > temptation is the best thing
+    >
+    > Paul - "the carnal man cannot perceive things of the spirit"
 
 
 

@@ -1,14 +1,17 @@
 ---
-id: morals/2024-10-15
-aliases: []
-tags: []
+id: morals/fonts-of-morality
+aliases: 
+tags:
+  - morals
+  - classes/morals
+  - 2024-10-15
 cssclasses:
   - miravale
 ---
 
-# 2024-09-24
 
-## The Fonts of Morality 
+# The Fonts of Morality 
+2024-10-15
 > Hey, you should know this, you goober
 
 #### I. Sources/Fonts of Morality
@@ -38,8 +41,7 @@ cssclasses:
 
 2. End -- *finis operantis* ("end of the agent")
     > "What is the actor like?"
-    1. "Why" -- motivation, state of affairs that was originally motivating the
-       act
+    1. "Why" -- motivation, state of affairs that was originally motivating the act
     2. A good end does not justify a bad mean/bad object
     3. A bad end/motivation can corrupt an action that has a good object
         1. If your motivations are corrupt/compromised:
@@ -86,24 +88,4 @@ cssclasses:
 > Takeaway: do not equate the physical manifestations with the object
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[[9-2024-09-24|Previous]] -- [[11-passions|Next]]

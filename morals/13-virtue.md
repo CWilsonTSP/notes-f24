@@ -1,20 +1,26 @@
 ---
-id: morals/2024-10-29
-aliases: []
-tags: []
+id: morals/13-virtue
+aliases: 
+tags:
+  - morals
+  - classes/morals
+  - 2024-10-29
+  - virtue
 cssclasses:
   - miravale
 ---
 
-# 2024-10-29
+
+
+# Virtue
+2024-10-29
+
+> Drawn from Pinckaers' appropriation of Aquinas
 
 > Washing of the feet -- prefiguring of confession?
 > "No one who has had a bath..." -- baptism, and feet washing is confession
 
 > Sacrament as a gauge of holiness
-
-## Virtue
-> Drawn from Pinckaers' appropriation of Aquinas
 
 #### I. Virtue and its Acquisition 
 1. Nature of virtue
@@ -53,54 +59,6 @@ cssclasses:
                 2. Commitment is the essence of excellence and love
                     > You can't just 'keep your options open'
         4. Supposed to find mentors
-
-
-## Cardinal Virtues
-
-#### I. Prudence
-1. Nature of prudence
-    1. The virtue that perfects conscience or acts of conscience
-        1. Makes us excellent at applying word principles to concrete
-           situations
-           1. Presupposes a knowledge of both
-                1. General principles
-                2. Concrete particulars
-    2. As an acquired virtue, prudence takes practice
-    3. Prudence, like all the cardinal virtues, lies between extremes
-        1. Involves a balance -- and balance is demanding
-            1. Don't use "prudence" as a synonym for comfort
-        2. Prudence makes one do the right thing, which often is not the most
-           comfortable thing 
-    4. Has to be the first of the cardinal virtues because it is intellectual --
-       it is, as a foundation, based on reason. 
-        1. You cannot do the good without knowing what the good is in the first
-           place
-
-> "In this world, you kill your kids and train your dog and blaspheme God at
-> every mild surprise."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

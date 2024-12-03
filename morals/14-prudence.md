@@ -1,33 +1,38 @@
 ---
-id: morals/2024-11-06
-aliases: []
-tags: []
+id: morals/14-prudence
+aliases: 
+tags:
+  - morals
+  - classes/morals
+  - 2024-11-06
+  - prudence
+  - virtue
 cssclasses:
   - miravale
+date: 2024-11-06
 ---
 
-# 2024-11-06
 
-## Cardinal Virtues
+# Prudence
+2024-11-06
 
-#### I. Prudence
-1. Nature of prudence
-    1. The virtue that perfects conscience or acts of conscience
-        1. Makes us excellent at applying word principles to concrete
-           situations
-           1. Presupposes a knowledge of both
-                1. General principles
-                2. Concrete particulars
-    2. As an acquired virtue, prudence takes practice
-    3. Prudence, like all the cardinal virtues, lies between extremes
-        1. Involves a balance -- and balance is demanding
-            1. Don't use "prudence" as a synonym for comfort
-        2. Prudence makes one do the right thing, which often is not the most
-           comfortable thing 
-    4. Has to be the first of the cardinal virtues because it is intellectual --
-       it is, as a foundation, based on reason. 
-        1. You cannot do the good without knowing what the good is in the first
-           place
+#### I. Nature of prudence
+1. The virtue that perfects conscience or acts of conscience
+	1. Makes us excellent at applying word principles to concrete
+	   situations
+	   1. Presupposes a knowledge of both
+			1. General principles
+			2. Concrete particulars
+2. As an acquired virtue, prudence takes practice
+3. Prudence, like all the cardinal virtues, lies between extremes
+	1. Involves a balance -- and balance is demanding
+		1. Don't use "prudence" as a synonym for comfort
+	2. Prudence makes one do the right thing, which often is not the most
+	   comfortable thing 
+4. Has to be the first of the cardinal virtues because it is intellectual --
+   it is, as a foundation, based on reason. 
+	1. You cannot do the good without knowing what the good is in the first
+	   place
 
 > "In this world, you kill your kids and train your dog and blaspheme God at
 > every mild surprise."
@@ -99,8 +104,7 @@ cssclasses:
 
        > [!quote] Aquinas
        > Nothing prevents some counsel from being infinite potentially
-       1. One must not refrain from decision -- xx until you've analyzed every
-          possible consideration
+       1. One must not refrain from decision -- xx until you've analyzed every possible consideration
 
         > [!aside]
         > What religious people often do, due to a lack of prudence, is appeal
@@ -140,18 +144,6 @@ cssclasses:
         3. Discouragement 
             > [!quote] Aquinas
             > Depression makes you lose contact with the outside world
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

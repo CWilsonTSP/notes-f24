@@ -1,18 +1,19 @@
 ---
-id: morals/2024-10-01
-aliases: []
+id: morals/synderesis-and-conscience
+aliases: 
 tags:
   - morals
   - conscience
+  - synderesis
+  - 2024-10-01
 cssclasses:
   - miravale
 ---
 
-# 2024-10-01
+# Synderesis and Conscience
+2024-10-01
 
-## Synderesis and Conscience
-
-#### 1. Synderesis -- First principles of Practical Reason
+#### I. Synderesis -- First principles of Practical Reason
 1. Two Faculties of the intellect:
     1. Speculative intellect
         1. First principle -- law of non-contradiction
@@ -39,7 +40,7 @@ cssclasses:
         > Book: What We Can't Not Know
 
 #### II. Conscience 
-1. Conscience == the application of general more principles to concrete
+1. Conscience == the application of general moral principles to concrete
    situations
     > Synderesis tells me drunkenness is bad; conscience tells me to stop
     > drinking 

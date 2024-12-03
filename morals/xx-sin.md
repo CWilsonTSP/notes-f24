@@ -1,16 +1,19 @@
 ---
-id: morals/2024-10-25
-aliases: []
-tags: []
+id: morals/sin
+aliases: 
+tags:
+  - 2024-10-25
+  - morals
+  - classes/morals
 cssclasses:
   - miravale
 ---
 
-# 2024-10-25
 
-## Sin
+# Sin
+2024-10-25
 
-#### Nature of Sin
+#### I. Nature of Sin
 1. Sin -- a thought, word, or deed which is contrary to the Eternal law
 2. "Causes" or parts of sin
     1. positive part -- the being of the thought, word, or deed (ontological)
@@ -108,20 +111,6 @@ cssclasses:
         1. Since the Holy Spirit is the person of the Trinity to whom we have
            appropriated Sanctification, if you block Him, you commit this sin
         2. This is basically what the Magisterium teaches 
-
-    XXX continue with Ben's question on something
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

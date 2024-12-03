@@ -1,9 +1,12 @@
 ---
-id: morals/2024-11-19
+id: morals/16-fortitude
 aliases: 
 tags:
   - fortitude
   - classes/morals
+  - morals
+  - virtue
+  - 2024-11-19
 cssclasses:
   - miravale
 ---
@@ -85,14 +88,14 @@ cssclasses:
 		2. Poverty, chastity, and obedience
 			> [!further]
 			> - Prayer when the tabernacle could just be an empty box
-			> - Fasting when all you want to do is eat
-			> - Almsgiving to a corrupt financial and propaganda machine
-			> - Poverty when money really seems to help
+			> - Fasting when you are kind of hungry.
+			> - Almsgiving to a perceived corrupt financial and propaganda machine
+			> - Poverty when money really seems to help yourself
 			> - Chastity when the pleasure is all that is advertised
 			> - Obedience when its just easier to not be or could even hurt
 
 #### V. Two acts of Fortitude
-1. Attack/righteous wrath
+1. Anger/righteous wrath
 	1. Virtuous use of anger to eliminate some evil.
 		> [!aside]
 		> Overturning tables -- Moment of reform in the temple
